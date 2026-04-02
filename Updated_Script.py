@@ -51,8 +51,9 @@ def check_dependencies():
 def main():
     # Adding Author and Site info to the Help menu
     help_text = (
-        "Bypass Defender\n"
-        "Work Forked from the Author: Tyler Ramsbey\n"
+        "Bypass Defender Automagically\n"
+        "Forked from the Author: Tyler Ramsbey\n"
+        "Learn ethical hacking @ hacksmarter.org"
     )
     
     parser = argparse.ArgumentParser(
